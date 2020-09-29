@@ -1,6 +1,7 @@
-Monk visits the land of Islands. There are a total of N islands numbered from 1 to N. Some pairs of islands are connected to each other by Bidirectional bridges running over water.
+Monk visits the land of Islands. There are a total of N islands numbered from 1 to N. Some pairs of islands are connected to each other by Bidirectional bridges running over water.<br />
 Monk hates to cross these bridges as they require a lot of efforts. He is standing at Island #1 and wants to reach the Island #N. Find the minimum the number of bridges that he shall have to cross, if he takes the optimal route.
-
+<br />
+<p>
 Input:
 First line contains T. T testcases follow.
 First line of each test case contains two space-separated integers N, M.
@@ -29,3 +30,4 @@ SAMPLE OUTPUT
 2
 2
 
+</p>
